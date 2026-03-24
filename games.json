@@ -1,0 +1,424 @@
+{
+  "games": [
+    {
+      "id": "CUSA34384",
+      "title": "God of War Ragnarök",
+      "featured": true,
+      "size_gb": 52.1,
+      "region": "NTSC",
+      "firmware": "9.00",
+      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/0c7c6e87207a55a0f20bf68000e4864a.webm",
+      "description": "Embarque em uma jornada épica pelos Nove Reinos em God of War Ragnarök, a conclusão da saga nórdica de Kratos e Atreus.",
+      "publisher": "Sony Interactive Entertainment",
+      "developer": "Santa Monica Studio",
+      "release_date": "2022",
+      "genre": "Ação, Aventura",
+      "rating": "18+",
+      "metacritic": 94,
+      "languages": ["Português", "Inglês", "Espanhol", "Francês"],
+      "players": "1 jogador",
+      "resolution": "4K Ultra HD",
+      "controller": "Vibração e gatilhos adaptáveis",
+      
+      "downloads": {
+        "game": [
+          {
+            "host": "vikingfile",
+            "url": "https://vikingfile.com/abc123",
+            "file_type": "pkg",
+            "speed": "Alta",
+            "region": "USA",
+            "size_gb": 52.1
+          },
+          {
+            "host": "buzzheavier",
+            "url": "https://buzzheavier.com/xyz789",
+            "file_type": "pkg",
+            "speed": "Média",
+            "region": "EUR",
+            "size_gb": 52.1
+          },
+          {
+            "host": "rootz",
+            "url": "https://rootz.so/d/1jmiLA",
+            "file_type": "pkg",
+            "speed": "Alta",
+            "region": "USA",
+            "size_gb": 52.1
+          }
+        ],
+        
+        "updates": [
+          {
+            "version": "1.01",
+            "size_mb": 350,
+            "release_date": "2022-11-15",
+            "description": "Correções de bugs e melhorias de performance",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/update101",
+                "file_type": "pkg",
+                "speed": "Alta"
+              },
+              {
+                "host": "buzzheavier",
+                "url": "https://buzzheavier.com/update101",
+                "file_type": "pkg",
+                "speed": "Média"
+              }
+            ]
+          },
+          {
+            "version": "1.02",
+            "size_mb": 420,
+            "release_date": "2022-12-20",
+            "description": "Novo modo de jogo + correções",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/update102",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          },
+          {
+            "version": "1.03",
+            "size_mb": 280,
+            "release_date": "2023-02-10",
+            "description": "Suporte a 120fps",
+            "hosts": [
+              {
+                "host": "rootz",
+                "url": "https://rootz.so/d/update103",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          }
+        ],
+        
+        "dlcs": [
+          {
+            "id": "DLC001",
+            "title": "Armadura da Valquíria",
+            "size_mb": 120,
+            "release_date": "2022-12-01",
+            "description": "Conjunto de armaduras exclusivas",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/dlc001",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          },
+          {
+            "id": "DLC002",
+            "title": "Pacote de Skins",
+            "size_mb": 85,
+            "release_date": "2023-01-15",
+            "description": "5 skins exclusivas para Kratos e Atreus",
+            "hosts": [
+              {
+                "host": "buzzheavier",
+                "url": "https://buzzheavier.com/dlc002",
+                "file_type": "pkg",
+                "speed": "Média"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    
+    {
+      "id": "CUSA10249",
+      "title": "The Last of Us Part II",
+      "featured": true,
+      "size_gb": 45.2,
+      "region": "NTSC",
+      "firmware": "9.00",
+      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/2b8a615575a484aae36a31f6d95f4b88.webm",
+      "description": "Cinco anos após sua jornada perigosa pelos Estados Unidos, Ellie se estabelece em Jackson, Wyoming.",
+      "publisher": "Sony Interactive Entertainment",
+      "developer": "Naughty Dog",
+      "release_date": "2020",
+      "genre": "Ação, Aventura, Terror",
+      "rating": "18+",
+      "metacritic": 93,
+      "languages": ["Português", "Inglês", "Espanhol"],
+      "players": "1 jogador",
+      "resolution": "4K Ultra HD",
+      "controller": "Vibração e gatilhos adaptáveis",
+      
+      "downloads": {
+        "game": [
+          {
+            "host": "vikingfile",
+            "url": "https://vikingfile.com/def456",
+            "file_type": "pkg",
+            "speed": "Alta",
+            "region": "USA",
+            "size_gb": 45.2
+          },
+          {
+            "host": "rootz",
+            "url": "https://rootz.so/d/2kMNB",
+            "file_type": "pkg",
+            "speed": "Alta",
+            "region": "USA",
+            "size_gb": 45.2
+          }
+        ],
+        
+        "updates": [
+          {
+            "version": "1.08",
+            "size_mb": 520,
+            "release_date": "2021-03-20",
+            "description": "Modo permadeath e gráficos melhorados",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/tlou2-update108",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          },
+          {
+            "version": "1.09",
+            "size_mb": 380,
+            "release_date": "2021-08-10",
+            "description": "Correções de bugs e performance",
+            "hosts": [
+              {
+                "host": "rootz",
+                "url": "https://rootz.so/d/tlou2-update109",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          }
+        ],
+        
+        "dlcs": [
+          {
+            "id": "DLC003",
+            "title": "Left Behind - Remasterizado",
+            "size_mb": 850,
+            "release_date": "2021-04-15",
+            "description": "A história de Ellie e Riley antes dos eventos do jogo principal",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/tlou2-leftbehind",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    
+    {
+      "id": "CUSA46876",
+      "title": "Poppy Playtime Chapter 1",
+      "featured": true,
+      "size_gb": 2.5,
+      "region": "NTSC",
+      "firmware": "9.00",
+      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/3c9e0455b3e9c6f5b7a1d8e4f2c6b8a0.webm",
+      "description": "Você deve sobreviver às garras da terrível Huggy Wuggy.",
+      "publisher": "Mob Entertainment",
+      "developer": "Mob Entertainment",
+      "release_date": "2021",
+      "genre": "Terror, Puzzle",
+      "rating": "16+",
+      "metacritic": 78,
+      "languages": ["Inglês"],
+      "players": "1 jogador",
+      "resolution": "1080p",
+      "controller": "Compatível",
+      
+      "downloads": {
+        "game": [
+          {
+            "host": "buzzheavier",
+            "url": "https://buzzheavier.com/poppy1",
+            "file_type": "pkg",
+            "speed": "Média",
+            "region": "USA",
+            "size_gb": 2.5
+          }
+        ],
+        
+        "updates": [],
+        
+        "dlcs": []
+      }
+    },
+    
+    {
+      "id": "CUSA67890",
+      "title": "Horizon Forbidden West",
+      "featured": true,
+      "size_gb": 48.3,
+      "region": "NTSC",
+      "firmware": "9.00",
+      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/4d8f1566c4f0b7e6c8b2e9f5d3c7d9a1.webm",
+      "description": "Junte-se a Aloy em sua aventura pelo Oeste Proibido.",
+      "publisher": "Sony Interactive Entertainment",
+      "developer": "Guerrilla Games",
+      "release_date": "2022",
+      "genre": "Ação, RPG, Aventura",
+      "rating": "16+",
+      "metacritic": 88,
+      "languages": ["Português", "Inglês", "Espanhol", "Francês", "Alemão"],
+      "players": "1 jogador",
+      "resolution": "4K Ultra HD",
+      "controller": "Vibração e gatilhos adaptáveis",
+      
+      "downloads": {
+        "game": [
+          {
+            "host": "vikingfile",
+            "url": "https://vikingfile.com/hfw",
+            "file_type": "pkg",
+            "speed": "Alta",
+            "region": "USA",
+            "size_gb": 48.3
+          },
+          {
+            "host": "rootz",
+            "url": "https://rootz.so/d/hfw",
+            "file_type": "pkg",
+            "speed": "Alta",
+            "region": "EUR",
+            "size_gb": 48.3
+          }
+        ],
+        
+        "updates": [
+          {
+            "version": "1.17",
+            "size_mb": 620,
+            "release_date": "2023-04-10",
+            "description": "Suporte a 40fps e melhorias",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/hfw-update117",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          }
+        ],
+        
+        "dlcs": [
+          {
+            "id": "DLC004",
+            "title": "Burning Shores",
+            "size_mb": 1250,
+            "release_date": "2023-05-20",
+            "description": "Uma nova aventura de Aloy nas terras ardentes",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/hfw-burningshores",
+                "file_type": "pkg",
+                "speed": "Alta"
+              },
+              {
+                "host": "rootz",
+                "url": "https://rootz.so/d/hfw-burningshores",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    
+    {
+      "id": "CUSA11111",
+      "title": "Ghost of Tsushima",
+      "featured": true,
+      "size_gb": 42.8,
+      "region": "NTSC",
+      "firmware": "9.00",
+      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/5e9a2677d5f1c8e7d9c3f0a6e4d8e0b2.webm",
+      "description": "No século XIII, o império mongol devastou nações inteiras em sua campanha para conquistar o Oriente.",
+      "publisher": "Sony Interactive Entertainment",
+      "developer": "Sucker Punch Productions",
+      "release_date": "2020",
+      "genre": "Ação, Aventura, Mundo Aberto",
+      "rating": "18+",
+      "metacritic": 83,
+      "languages": ["Português", "Inglês", "Espanhol", "Francês", "Italiano"],
+      "players": "1 jogador",
+      "resolution": "4K Ultra HD",
+      "controller": "Vibração e gatilhos adaptáveis",
+      
+      "downloads": {
+        "game": [
+          {
+            "host": "vikingfile",
+            "url": "https://vikingfile.com/got",
+            "file_type": "pkg",
+            "speed": "Alta",
+            "region": "USA",
+            "size_gb": 42.8
+          }
+        ],
+        
+        "updates": [
+          {
+            "version": "2.08",
+            "size_mb": 780,
+            "release_date": "2021-08-20",
+            "description": "Modo New Game+ e Legends online",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/got-update208",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          }
+        ],
+        
+        "dlcs": [
+          {
+            "id": "DLC005",
+            "title": "Ilha de Iki",
+            "size_mb": 950,
+            "release_date": "2021-09-10",
+            "description": "Uma nova ilha para explorar com Jin Sakai",
+            "hosts": [
+              {
+                "host": "vikingfile",
+                "url": "https://vikingfile.com/got-iki",
+                "file_type": "pkg",
+                "speed": "Alta"
+              },
+              {
+                "host": "rootz",
+                "url": "https://rootz.so/d/got-iki",
+                "file_type": "pkg",
+                "speed": "Alta"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
