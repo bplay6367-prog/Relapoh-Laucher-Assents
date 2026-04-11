@@ -1,138 +1,23 @@
 {
   "games": [
     {
-      "id": "CUSA34384",
-      "title": "God of War Ragnarök",
-      "featured": true,
-      "size_gb": 52.1,
-      "region": "NTSC",
-      "firmware": "9.00",
-      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/0c7c6e87207a55a0f20bf68000e4864a.webm",
-      "description": "Embarque em uma jornada épica pelos Nove Reinos em God of War Ragnarök, a conclusão da saga nórdica de Kratos e Atreus.",
-      "publisher": "Sony Interactive Entertainment",
-      "developer": "Santa Monica Studio",
-      "release_date": "2022",
-      "genre": "Ação, Aventura",
-      "rating": "18+",
-      "metacritic": 94,
-      "languages": ["Português", "Inglês", "Espanhol", "Francês"],
-      "players": "1 jogador",
-      "resolution": "4K Ultra HD",
-      "controller": "Vibração e gatilhos adaptáveis",
-      
-      "downloads": {
-        "game": [
-          {
-            "host": "vikingfile",
-            "url": "https://vik1ngfile.site/f/wxYM2m1ahX",
-            "file_type": "pkg",
-            "speed": "Alta mais o link pode morre",
-            "region": "USA",
-            "size_gb": 52.1
-          },
-          {
-            "host": "buzzheavier",
-            "url": "https://buzzheavier.com/xyz789",
-            "file_type": "pkg",
-            "speed": "Média",
-            "region": "EUR",
-            "size_gb": 52.1
-          },
-          {
-            "host": "rootz",
-            "url": "https://rootz.so/d/1jmiLA",
-            "file_type": "pkg",
-            "speed": "Alta",
-            "region": "USA",
-            "size_gb": 52.1
-          }
-        ],
-        
-        "updates": [
-          {
-            "version": "1.01",
-            "size_mb": 350,
-            "release_date": "2022-11-15",
-            "description": "Correções de bugs e melhorias de performance",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/update101",
-                "file_type": "pkg",
-                "speed": "Alta"
-              },
-              {
-                "host": "buzzheavier",
-                "url": "https://buzzheavier.com/update101",
-                "file_type": "pkg",
-                "speed": "Média"
-              }
-            ]
-          },
-          {
-            "version": "1.02",
-            "size_mb": 420,
-            "release_date": "2022-12-20",
-            "description": "Novo modo de jogo + correções",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/update102",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          },
-          {
-            "version": "1.03",
-            "size_mb": 280,
-            "release_date": "2023-02-10",
-            "description": "Suporte a 120fps",
-            "hosts": [
-              {
-                "host": "rootz",
-                "url": "https://rootz.so/d/update103",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          }
-        ],
-        
-        "dlcs": [
-          {
-            "id": "DLC001",
-            "title": "Armadura da Valquíria",
-            "size_mb": 120,
-            "release_date": "2022-12-01",
-            "description": "Conjunto de armaduras exclusivas",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/dlc001",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          },
-          {
-            "id": "DLC002",
-            "title": "Pacote de Skins",
-            "size_mb": 85,
-            "release_date": "2023-01-15",
-            "description": "5 skins exclusivas para Kratos e Atreus",
-            "hosts": [
-              {
-                "host": "buzzheavier",
-                "url": "https://buzzheavier.com/dlc002",
-                "file_type": "pkg",
-                "speed": "Média"
-              }
-            ]
-          }
-        ]
-      }
-    },
+     {
+  "id": "CUSA07384",
+  "title": "Wolfenstein II: The New Colossus",
+  "size_gb": "52.5",
+  "region": "USA",
+  "firmware": "9.00",
+  "description": "Wolfenstein II: The New Colossus é um jogo de tiro em primeira pessoa desenvolvido pela MachineGames e publicado pela Bethesda Softworks.",
+  "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1916/8tXJkZqWpLmNxYvKjHjGgF.png",
+  "downloads": [
+    {
+      "name": "Wolfenstein II: The New Colossus - Base Game",
+      "link": "https://www.mediafire.com/file/xxxxx/Wolfenstein_II.pkg",
+      "host": "MediaFire",
+      "size": "52.5 GB"
+    }
+  ]
+}
     
     {
       "id": "CUSA10249",
