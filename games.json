@@ -1,309 +1,49 @@
 {
   "games": [
     {
-     {
-  "id": "CUSA07384",
-  "title": "Wolfenstein II: The New Colossus",
-  "size_gb": "52.5",
-  "region": "USA",
-  "firmware": "9.00",
-  "description": "Wolfenstein II: The New Colossus é um jogo de tiro em primeira pessoa desenvolvido pela MachineGames e publicado pela Bethesda Softworks.",
-  "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1916/8tXJkZqWpLmNxYvKjHjGgF.png",
-  "downloads": [
-    {
-      "name": "Wolfenstein II: The New Colossus - Base Game",
-      "link": "https://www.mediafire.com/file/xxxxx/Wolfenstein_II.pkg",
-      "host": "MediaFire",
-      "size": "52.5 GB"
-    }
-  ]
-}
-    
+      "id": "CUSA34384",
+      "downloads": [
+        {
+          "name": "God of War Ragnarök - Base Game",
+          "link": "https://www.mediafire.com/file/xxxxx/God_of_War_Ragnarok.pkg",
+          "host": "MediaFire",
+          "size": "84.5 GB"
+        },
+        {
+          "name": "God of War Ragnarök - Update v1.01",
+          "link": "https://www.mediafire.com/file/xxxxx/God_of_War_Ragnarok_Update.pkg",
+          "host": "MediaFire",
+          "size": "2.1 GB"
+        }
+      ]
+    },
     {
       "id": "CUSA10249",
-      "title": "The Last of Us Part II",
-      "featured": true,
-      "size_gb": 45.2,
-      "region": "NTSC",
-      "firmware": "9.00",
-      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/2b8a615575a484aae36a31f6d95f4b88.webm",
-      "description": "Cinco anos após sua jornada perigosa pelos Estados Unidos, Ellie se estabelece em Jackson, Wyoming.",
-      "publisher": "Sony Interactive Entertainment",
-      "developer": "Naughty Dog",
-      "release_date": "2020",
-      "genre": "Ação, Aventura, Terror",
-      "rating": "18+",
-      "metacritic": 93,
-      "languages": ["Português", "Inglês", "Espanhol"],
-      "players": "1 jogador",
-      "resolution": "4K Ultra HD",
-      "controller": "Vibração e gatilhos adaptáveis",
-      
-      "downloads": {
-        "game": [
-          {
-            "host": "vikingfile",
-            "url": "https://vikingfile.com/def456",
-            "file_type": "pkg",
-            "speed": "Alta",
-            "region": "USA",
-            "size_gb": 45.2
-          },
-          {
-            "host": "rootz",
-            "url": "https://rootz.so/d/2kMNB",
-            "file_type": "pkg",
-            "speed": "Alta",
-            "region": "USA",
-            "size_gb": 45.2
-          }
-        ],
-        
-        "updates": [
-          {
-            "version": "1.08",
-            "size_mb": 520,
-            "release_date": "2021-03-20",
-            "description": "Modo permadeath e gráficos melhorados",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/tlou2-update108",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          },
-          {
-            "version": "1.09",
-            "size_mb": 380,
-            "release_date": "2021-08-10",
-            "description": "Correções de bugs e performance",
-            "hosts": [
-              {
-                "host": "rootz",
-                "url": "https://rootz.so/d/tlou2-update109",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          }
-        ],
-        
-        "dlcs": [
-          {
-            "id": "DLC003",
-            "title": "Left Behind - Remasterizado",
-            "size_mb": 850,
-            "release_date": "2021-04-15",
-            "description": "A história de Ellie e Riley antes dos eventos do jogo principal",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/tlou2-leftbehind",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          }
-        ]
-      }
+      "downloads": [
+        {
+          "name": "The Last of Us Part II - Base Game",
+          "link": "https://www.mediafire.com/file/xxxxx/TLOU2.pkg",
+          "host": "MediaFire",
+          "size": "78.2 GB"
+        }
+      ]
     },
-    
     {
-      "id": "CUSA33388",
-      "title": "Resident Evil 4 Remake",
-      "featured": true,
-      "size_gb": 2.5,
-      "region": "NTSC",
-      "firmware": "9.00",
-      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/3c9e0455b3e9c6f5b7a1d8e4f2c6b8a0.webm",
-      "description": "Você deve sobreviver às garras da terrível Huggy Wuggy.",
-      "publisher": "Mob Entertainment",
-      "developer": "Mob Entertainment",
-      "release_date": "2021",
-      "genre": "Terror, Puzzle",
-      "rating": "16+",
-      "metacritic": 78,
-      "languages": ["Inglês"],
-      "players": "1 jogador",
-      "resolution": "1080p",
-      "controller": "Compatível",
-      
-      "downloads": {
-        "game": [
-          {
-            "host": "buzzheavier",
-            "url": "https://buzzheavier.com/poppy1",
-            "file_type": "pkg",
-            "speed": "Média",
-            "region": "USA",
-            "size_gb": 2.5
-          }
-        ],
-        
-        "updates": [],
-        
-        "dlcs": []
-      }
-    },
-    
-    {
-      "id": "CUSA33388",
-      "title": "Resident Evil 4 Remake",
-      "featured": true,
-      "size_gb": 48.3,
-      "region": "NTSC",
-      "firmware": "9.00",
-      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/4d8f1566c4f0b7e6c8b2e9f5d3c7d9a1.webm",
-      "description": "Junte-se a Aloy em sua aventura pelo Oeste Proibido.",
-      "publisher": "Sony Interactive Entertainment",
-      "developer": "Guerrilla Games",
-      "release_date": "2022",
-      "genre": "Ação, RPG, Aventura",
-      "rating": "16+",
-      "metacritic": 88,
-      "languages": ["Português", "Inglês", "Espanhol", "Francês", "Alemão"],
-      "players": "1 jogador",
-      "resolution": "4K Ultra HD",
-      "controller": "Vibração e gatilhos adaptáveis",
-      
-      "downloads": {
-        "game": [
-          {
-            "host": "vikingfile",
-            "url": "https://vikingfile.com/hfw",
-            "file_type": "pkg",
-            "speed": "Alta",
-            "region": "USA",
-            "size_gb": 48.3
-          },
-          {
-            "host": "torrent",
-            "url": "https://raw.githubusercontent.com/bplay6367-prog/Relapoh-Laucher-Assents/refs/heads/main/Torrents/CUSA33388.torrent",
-            "file_type": "pkg",
-            "speed": "Alta",
-            "region": "EUR",
-            "size_gb": 48.3
-          }
-        ],
-        
-        "updates": [
-          {
-            "version": "1.17",
-            "size_mb": 620,
-            "release_date": "2023-04-10",
-            "description": "Suporte a 40fps e melhorias",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/hfw-update117",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          }
-        ],
-        
-        "dlcs": [
-          {
-            "id": "DLC004",
-            "title": "Burning Shores",
-            "size_mb": 1250,
-            "release_date": "2023-05-20",
-            "description": "Uma nova aventura de Aloy nas terras ardentes",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/hfw-burningshores",
-                "file_type": "pkg",
-                "speed": "Alta"
-              },
-              {
-                "host": "rootz",
-                "url": "https://rootz.so/d/hfw-burningshores",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    
-    {
-      "id": "CUSA11111",
-      "title": "Ghost of Tsushima",
-      "featured": true,
-      "size_gb": 42.8,
-      "region": "NTSC",
-      "firmware": "9.00",
-      "cover_url": "https://cdn2.steamgriddb.com/hero_thumb/5e9a2677d5f1c8e7d9c3f0a6e4d8e0b2.webm",
-      "description": "No século XIII, o império mongol devastou nações inteiras em sua campanha para conquistar o Oriente.",
-      "publisher": "Sony Interactive Entertainment",
-      "developer": "Sucker Punch Productions",
-      "release_date": "2020",
-      "genre": "Ação, Aventura, Mundo Aberto",
-      "rating": "18+",
-      "metacritic": 83,
-      "languages": ["Português", "Inglês", "Espanhol", "Francês", "Italiano"],
-      "players": "1 jogador",
-      "resolution": "4K Ultra HD",
-      "controller": "Vibração e gatilhos adaptáveis",
-      
-      "downloads": {
-        "game": [
-          {
-            "host": "vikingfile",
-            "url": "https://vikingfile.com/got",
-            "file_type": "pkg",
-            "speed": "Alta",
-            "region": "USA",
-            "size_gb": 42.8
-          }
-        ],
-        
-        "updates": [
-          {
-            "version": "2.08",
-            "size_mb": 780,
-            "release_date": "2021-08-20",
-            "description": "Modo New Game+ e Legends online",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/got-update208",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          }
-        ],
-        
-        "dlcs": [
-          {
-            "id": "DLC005",
-            "title": "Ilha de Iki",
-            "size_mb": 950,
-            "release_date": "2021-09-10",
-            "description": "Uma nova ilha para explorar com Jin Sakai",
-            "hosts": [
-              {
-                "host": "vikingfile",
-                "url": "https://vikingfile.com/got-iki",
-                "file_type": "pkg",
-                "speed": "Alta"
-              },
-              {
-                "host": "rootz",
-                "url": "https://rootz.so/d/got-iki",
-                "file_type": "pkg",
-                "speed": "Alta"
-              }
-            ]
-          }
-        ]
-      }
+      "id": "CUSA07384",
+      "downloads": [
+        {
+          "name": "Wolfenstein II: The New Colossus - Base Game",
+          "link": "https://www.mediafire.com/file/xxxxx/Wolfenstein_II.pkg",
+          "host": "MediaFire",
+          "size": "52.5 GB"
+        },
+        {
+          "name": "Wolfenstein II - Update v1.02",
+          "link": "https://www.mediafire.com/file/xxxxx/Wolfenstein_II_Update.pkg",
+          "host": "MediaFire",
+          "size": "1.8 GB"
+        }
+      ]
     }
   ]
 }
