@@ -1,220 +1,299 @@
 {
   "games": [
     {
-      "id": "CUSA07820",
       "title": "The Last of Us Part II",
-      "size_gb": "45.2",
-      "region": "Multi",
-      "firmware": "9.00",
-      "downloads": [
+      "cusa_options": [
         {
-          "host": "mediafire",
-          "type": "game",
-          "name": "The Last of Us Part II PS4.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/TLOU2.pkg/file",
-          "size": "45.2 GB"
+          "cusa": "CUSA07820",
+          "region": "EU",
+          "size_gb": "45.2",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "mediafire",
+              "name": "The Last of Us Part II PS4 EU.pkg",
+              "link": "https://www.mediafire.com/file/xxxxx/TLOU2_EU.pkg/file",
+              "size": "45.2 GB"
+            },
+            {
+              "type": "game",
+              "host": "gofile",
+              "name": "TLOU2_PS4_EU.pkg",
+              "link": "https://gofile.io/d/xxxxx",
+              "size": "45.2 GB"
+            },
+            {
+              "type": "update",
+              "host": "gofile",
+              "name": "TLOU2 EU Update 1.09.pkg",
+              "link": "https://gofile.io/d/xxxxx_update",
+              "size": "12.8 GB",
+              "version": "1.09"
+            },
+            {
+              "type": "dlc",
+              "host": "mediafire",
+              "name": "TLOU2 EU - Grounded Mode DLC.pkg",
+              "link": "https://www.mediafire.com/file/xxxxx/TLOU2_EU_DLC.pkg/file",
+              "size": "2.1 GB",
+              "dlc_name": "Grounded Mode"
+            }
+          ]
         },
         {
-          "host": "gofile",
-          "type": "game",
-          "name": "TLOU2_PS4.pkg",
-          "link": "https://gofile.io/d/xxxxx",
-          "size": "45.2 GB"
+          "cusa": "CUSA10249",
+          "region": "US",
+          "size_gb": "44.8",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "mediafire",
+              "name": "The Last of Us Part II PS4 US.pkg",
+              "link": "https://www.mediafire.com/file/yyyyy/TLOU2_US.pkg/file",
+              "size": "44.8 GB"
+            },
+            {
+              "type": "game",
+              "host": "gofile",
+              "name": "TLOU2_PS4_US.pkg",
+              "link": "https://gofile.io/d/yyyyy",
+              "size": "44.8 GB"
+            },
+            {
+              "type": "update",
+              "host": "gofile",
+              "name": "TLOU2 US Update 1.09.pkg",
+              "link": "https://gofile.io/d/yyyyy_update",
+              "size": "12.5 GB",
+              "version": "1.09"
+            },
+            {
+              "type": "dlc",
+              "host": "mediafire",
+              "name": "TLOU2 US - Permadeath DLC.pkg",
+              "link": "https://www.mediafire.com/file/yyyyy/TLOU2_US_DLC.pkg/file",
+              "size": "1.8 GB",
+              "dlc_name": "Permadeath Mode"
+            }
+          ]
         },
         {
-          "host": "1fichier",
-          "type": "update",
-          "name": "TLOU2 Update 1.09.pkg",
-          "link": "https://1fichier.com/?xxxxx",
-          "size": "12.8 GB",
-          "version": "1.09"
-        },
-        {
-          "host": "mediafire",
-          "type": "dlc",
-          "name": "TLOU2 - Grounded Mode DLC.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/TLOU2_DLC.pkg/file",
-          "size": "2.1 GB",
-          "dlc_name": "Grounded Mode"
-        },
-        {
-          "host": "gofile",
-          "type": "dlc",
-          "name": "TLOU2 - Permadeath DLC.pkg",
-          "link": "https://gofile.io/d/yyyyy",
-          "size": "1.8 GB",
-          "dlc_name": "Permadeath Mode"
-        },
-        {
-          "host": "torrent",
-          "type": "game",
-          "name": "TLOU2 Complete.torrent",
-          "link": "https://raw.githubusercontent.com/bplay6367-prog/Relapoh-Laucher-Assents/main/Torrents/CUSA07820.torrent",
-          "size": "45.2 GB"
+          "cusa": "CUSA14006",
+          "region": "JP",
+          "size_gb": "46.1",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "gofile",
+              "name": "The Last of Us Part II PS4 JP.pkg",
+              "link": "https://gofile.io/d/zzzzz",
+              "size": "46.1 GB"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "CUSA34384",
       "title": "God of War Ragnarök",
-      "size_gb": "84.5",
-      "region": "Multi",
-      "firmware": "9.00",
-      "downloads": [
+      "cusa_options": [
         {
-          "host": "mediafire",
-          "type": "game",
-          "name": "God of War Ragnarok PS4.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/GOWR.pkg/file",
-          "size": "84.5 GB"
+          "cusa": "CUSA34384",
+          "region": "EU",
+          "size_gb": "84.5",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "mediafire",
+              "name": "God of War Ragnarok PS4 EU.pkg",
+              "link": "https://www.mediafire.com/file/xxxxx/GOWR_EU.pkg/file",
+              "size": "84.5 GB"
+            },
+            {
+              "type": "game",
+              "host": "mega",
+              "name": "GOW_Ragnarok_EU.pkg",
+              "link": "https://mega.nz/file/xxxxx",
+              "size": "84.5 GB"
+            },
+            {
+              "type": "update",
+              "host": "1fichier",
+              "name": "GOWR EU Update 4.02.pkg",
+              "link": "https://1fichier.com/?xxxxx",
+              "size": "18.3 GB",
+              "version": "4.02"
+            },
+            {
+              "type": "dlc",
+              "host": "mediafire",
+              "name": "GOWR - Valhalla DLC EU.pkg",
+              "link": "https://www.mediafire.com/file/xxxxx/GOWR_Valhalla_EU.pkg/file",
+              "size": "15.7 GB",
+              "dlc_name": "Valhalla"
+            }
+          ]
         },
         {
-          "host": "mega",
-          "type": "game",
-          "name": "GOW_Ragnarok.pkg",
-          "link": "https://mega.nz/file/xxxxx",
-          "size": "84.5 GB"
-        },
-        {
-          "host": "1fichier",
-          "type": "update",
-          "name": "GOWR Update 4.02.pkg",
-          "link": "https://1fichier.com/?xxxxx",
-          "size": "18.3 GB",
-          "version": "4.02"
-        },
-        {
-          "host": "mediafire",
-          "type": "dlc",
-          "name": "GOWR - Valhalla DLC.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/GOWR_Valhalla.pkg/file",
-          "size": "15.7 GB",
-          "dlc_name": "Valhalla"
+          "cusa": "CUSA34386",
+          "region": "US",
+          "size_gb": "83.9",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "mega",
+              "name": "God of War Ragnarok PS4 US.pkg",
+              "link": "https://mega.nz/file/yyyyy",
+              "size": "83.9 GB"
+            },
+            {
+              "type": "game",
+              "host": "mediafire",
+              "name": "GOWR_US.pkg",
+              "link": "https://www.mediafire.com/file/yyyyy/GOWR_US.pkg/file",
+              "size": "83.9 GB"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "CUSA00556",
-      "title": "The Last of Us Remastered",
-      "size_gb": "38.7",
-      "region": "Multi",
-      "firmware": "9.00",
-      "downloads": [
+      "title": "Resident Evil 4",
+      "cusa_options": [
         {
-          "host": "mediafire",
-          "type": "game",
-          "name": "The Last of Us Remastered.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/TLOU_Remastered.pkg/file",
-          "size": "38.7 GB"
+          "cusa": "CUSA35714",
+          "region": "EU",
+          "size_gb": "24.8",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "buzzheavier",
+              "name": "Resident Evil 4 PS4 EU.pkg",
+              "link": "https://buzzheavier.com/xxxxx",
+              "size": "24.8 GB"
+            },
+            {
+              "type": "game",
+              "host": "fuckingfast",
+              "name": "RE4_PS4_EU.pkg",
+              "link": "https://fuckingfast.co/xxxxx",
+              "size": "24.8 GB"
+            },
+            {
+              "type": "dlc",
+              "host": "mediafire",
+              "name": "RE4 - Classic Costume Pack.pkg",
+              "link": "https://www.mediafire.com/file/xxxxx/RE4_Costumes.pkg/file",
+              "size": "0.5 GB",
+              "dlc_name": "Classic Costume Pack"
+            }
+          ]
         },
         {
-          "host": "gofile",
-          "type": "update",
-          "name": "TLOU Remastered Update 1.11.pkg",
-          "link": "https://gofile.io/d/zzzzz",
-          "size": "5.2 GB",
-          "version": "1.11"
-        },
-        {
-          "host": "gofile",
-          "type": "dlc",
-          "name": "TLOU - Left Behind DLC.pkg",
-          "link": "https://gofile.io/d/wwwww",
-          "size": "6.8 GB",
-          "dlc_name": "Left Behind"
-        },
-        {
-          "host": "gofile",
-          "type": "dlc",
-          "name": "TLOU - Multiplayer Maps.pkg",
-          "link": "https://gofile.io/d/vvvvv",
-          "size": "3.4 GB",
-          "dlc_name": "Multiplayer Map Pack"
+          "cusa": "CUSA35715",
+          "region": "US",
+          "size_gb": "24.5",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "mediafire",
+              "name": "Resident Evil 4 PS4 US.pkg",
+              "link": "https://www.mediafire.com/file/yyyyy/RE4_US.pkg/file",
+              "size": "24.5 GB"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "CUSA16998",
-      "title": "Resident Evil 3",
-      "size_gb": "21.9",
-      "region": "Multi",
-      "firmware": "9.00",
-      "downloads": [
+      "title": "Elden Ring",
+      "cusa_options": [
         {
-          "host": "buzzheavier",
-          "type": "game",
-          "name": "Resident Evil 3 PS4.pkg",
-          "link": "https://buzzheavier.com/xxxxx",
-          "size": "21.9 GB"
+          "cusa": "CUSA28863",
+          "region": "EU",
+          "size_gb": "44.2",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "mediafire",
+              "name": "Elden Ring PS4 EU.pkg",
+              "link": "https://www.mediafire.com/file/xxxxx/ER_EU.pkg/file",
+              "size": "44.2 GB"
+            },
+            {
+              "type": "update",
+              "host": "gofile",
+              "name": "Elden Ring EU Update 1.10.pkg",
+              "link": "https://gofile.io/d/xxxxx",
+              "size": "8.9 GB",
+              "version": "1.10"
+            },
+            {
+              "type": "dlc",
+              "host": "gofile",
+              "name": "Elden Ring - Shadow of the Erdtree DLC.pkg",
+              "link": "https://gofile.io/d/xxxxx_dlc",
+              "size": "28.4 GB",
+              "dlc_name": "Shadow of the Erdtree"
+            }
+          ]
         },
         {
-          "host": "fuckingfast",
-          "type": "game",
-          "name": "RE3_PS4.pkg",
-          "link": "https://fuckingfast.co/xxxxx",
-          "size": "21.9 GB"
-        },
-        {
-          "host": "mediafire",
-          "type": "dlc",
-          "name": "RE3 - Classic Costume Pack.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/RE3_Costumes.pkg/file",
-          "size": "0.5 GB",
-          "dlc_name": "Classic Costume Pack"
-        },
-        {
-          "host": "mediafire",
-          "type": "dlc",
-          "name": "RE3 - All In-game Rewards Unlock.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/RE3_Unlocker.pkg/file",
-          "size": "0.1 GB",
-          "dlc_name": "All Rewards Unlock"
+          "cusa": "CUSA28591",
+          "region": "US",
+          "size_gb": "43.8",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "1fichier",
+              "name": "Elden Ring PS4 US.pkg",
+              "link": "https://1fichier.com/?yyyyy",
+              "size": "43.8 GB"
+            },
+            {
+              "type": "game",
+              "host": "torrent",
+              "name": "Elden Ring US Torrent",
+              "link": "https://raw.githubusercontent.com/bplay6367-prog/Relapoh-Laucher-Assents/main/Torrents/CUSA28591.torrent",
+              "size": "43.8 GB"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "CUSA09187",
-      "title": "Horizon Zero Dawn Complete Edition",
-      "size_gb": "40.1",
-      "region": "Multi",
-      "firmware": "9.00",
-      "downloads": [
+      "title": "Grand Theft Auto V",
+      "cusa_options": [
         {
-          "host": "mediafire",
-          "type": "game",
-          "name": "Horizon Zero Dawn Complete.pkg",
-          "link": "https://www.mediafire.com/file/xxxxx/HZD_Complete.pkg/file",
-          "size": "40.1 GB"
-        },
-        {
-          "host": "1fichier",
-          "type": "game",
-          "name": "HZD_Complete_PS4.pkg",
-          "link": "https://1fichier.com/?xxxxx",
-          "size": "40.1 GB"
-        },
-        {
-          "host": "gofile",
-          "type": "update",
-          "name": "HZD Update 1.54.pkg",
-          "link": "https://gofile.io/d/xxxxx",
-          "size": "8.7 GB",
-          "version": "1.54"
-        },
-        {
-          "host": "gofile",
-          "type": "dlc",
-          "name": "HZD - The Frozen Wilds DLC.pkg",
-          "link": "https://gofile.io/d/xxxxx",
-          "size": "14.3 GB",
-          "dlc_name": "The Frozen Wilds"
-        },
-        {
-          "host": "torrent",
-          "type": "game",
-          "name": "HZD Complete.torrent",
-          "link": "https://raw.githubusercontent.com/bplay6367-prog/Relapoh-Laucher-Assents/main/Torrents/CUSA09187.torrent",
-          "size": "40.1 GB"
+          "cusa": "CUSA00411",
+          "region": "EU",
+          "size_gb": "38.5",
+          "firmware": "9.00",
+          "downloads": [
+            {
+              "type": "game",
+              "host": "mediafire",
+              "name": "GTA V PS4 EU.pkg",
+              "link": "https://www.mediafire.com/file/xxxxx/GTAV_EU.pkg/file",
+              "size": "38.5 GB"
+            },
+            {
+              "type": "update",
+              "host": "gofile",
+              "name": "GTA V EU Update 1.48.pkg",
+              "link": "https://gofile.io/d/xxxxx",
+              "size": "15.2 GB",
+              "version": "1.48"
+            }
+          ]
         }
       ]
     }
