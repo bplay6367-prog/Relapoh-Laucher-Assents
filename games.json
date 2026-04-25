@@ -5,7 +5,7 @@
       "cusa_options": [
         {
           "cusa": "CUSA07820",
-          "region": "EU",
+          "region": "US",
           "size_gb": "45.2",
           "firmware": "9.00",
           "downloads": [
@@ -43,7 +43,7 @@
         },
         {
           "cusa": "CUSA10249",
-          "region": "US",
+          "region": "EU",
           "size_gb": "44.8",
           "firmware": "9.00",
           "downloads": [
